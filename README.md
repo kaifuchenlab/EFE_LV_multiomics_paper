@@ -1,4 +1,4 @@
-# EFE_LV_multiomics_paper
+# EFE_multiomics
 
 Single-cell multiomics data analysis for the **Endocardial Fibroelastosis (EFE)** multiomics project.
 
